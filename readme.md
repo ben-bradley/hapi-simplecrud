@@ -1,6 +1,6 @@
 # Simple CRUD for Hapi [![Build Status](https://secure.travis-ci.org/ben-bradley/haip-simplecrud.png)](http://travis-ci.org/ben-bradley/hapi-simplecrud)
 
-> __C__reate, __R__ead, __U__pdate, and __D__elete
+> Create, Read, Update, and Delete
 
 I needed a quick way to CRUD data on a Hapi server so I write this to do it for me.
 
