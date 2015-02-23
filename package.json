@@ -14,7 +14,8 @@
   "description": "Quick-n-dirty plugin to add CRUD routes to Hapi",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "test": "test",
+    "lib": "lib"
   },
   "scripts": {
     "test": "mocha -R spec"
