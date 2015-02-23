@@ -1,4 +1,4 @@
-# Simple CRUD for Hapi [![Build Status](https://api.travis-ci.org/ben-bradley/haip-simplecrud.png)](http://travis-ci.org/ben-bradley/hapi-simplecrud)
+# Simple CRUD for Hapi [![Build Status](https://api.travis-ci.org/ben-bradley/hapi-simplecrud.png)](http://travis-ci.org/ben-bradley/hapi-simplecrud)
 
 > Create, Read, Update, and Delete
 
