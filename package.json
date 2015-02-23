@@ -1,0 +1,28 @@
+{
+  "name": "hapi-simplecrud",
+  "version": "0.0.1",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "uuid": "^2.0.1",
+    "boom": "^2.6.1",
+    "q": "^1.1.2"
+  },
+  "devDependencies": {
+    "should": "^5.0.1",
+    "mocha": "^2.1.0"
+  },
+  "description": "Quick-n-dirty plugin to add CRUD routes to Hapi",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "keywords": [
+    "crud",
+    "hapi"
+  ],
+  "author": "Ben Bradley",
+  "license": "MIT"
+}
