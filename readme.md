@@ -29,6 +29,7 @@ server.connection({
  * - Read (POST /things)
  * - Update (PUT /things/{id})
  * - Delete (DELETE /things/{id})
+ */
 var paths = [ '/things', '/thangs' ];
 
 server.register({
